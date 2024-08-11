@@ -1,6 +1,6 @@
 # ScadJs-plugin-openFolder
 
-ScadJs-template-plugins - это плагин предназначен для быстрого доступа к директориям плагинов в [ScadSoft](https://scadsoft.com/).
+ScadJs-plugin-openFolder - это плагин предназначен для быстрого доступа к директориям плагинов в [ScadSoft](https://scadsoft.com/).
 
 ## Структура репозитория
 
